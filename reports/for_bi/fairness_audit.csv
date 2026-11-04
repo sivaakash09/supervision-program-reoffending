@@ -1,0 +1,5 @@
+group,people,actual_rearrest_rate,avg_predicted_risk,flagged_high_risk_pct,false_positive_rate,false_negative_rate,precision_of_flag,attribute
+Black,4534,31.5,30.5,31.1,23.5,52.5,48.2,race
+White,3273,28.1,29.0,28.7,20.8,51.1,47.9,race
+Men,6857,31.2,31.1,33.0,24.9,49.0,48.1,sex
+Women,950,21.9,20.5,8.5,5.8,81.7,46.9,sex

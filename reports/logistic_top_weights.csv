@@ -1,0 +1,13 @@
+,standardized_weight
+age_at_release,-0.455
+gang_affiliated,0.219
+prior_arrest_episodes_felony,0.214
+prior_arrest_episodes_property,0.165
+prison_years,-0.16
+gang_affiliated_missing,-0.142
+prior_arrest_episodes_ppviolationcharges,0.122
+offense_Violent/Sex,-0.115
+condition_mh_sa,0.114
+prior_arrest_episodes_misd,0.108
+prior_revocations_parole,0.077
+prior_conviction_episodes_misd,0.077

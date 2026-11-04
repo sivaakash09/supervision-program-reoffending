@@ -1,0 +1,4 @@
+model,auc,auc_low,auc_high,brier
+State risk score only,0.585,0.572,0.599,
+Logistic regression,0.699,0.686,0.71,0.1887
+XGBoost,0.706,0.693,0.718,0.1869

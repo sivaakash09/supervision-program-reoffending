@@ -1,0 +1,50 @@
+{
+  "Condition_Cog_Ed": {
+    "treatment": "Condition_Cog_Ed",
+    "assigned": 11441,
+    "not_assigned": 14394,
+    "rearrest_rate_assigned": 32.0,
+    "rearrest_rate_not_assigned": 28.2,
+    "raw_difference_pts": 3.9,
+    "matched_pairs": 11440,
+    "assigned_dropped_by_caliper": 1,
+    "matched_rate_assigned": 32.0,
+    "matched_rate_comparison": 31.5,
+    "att_matching_pts": 0.5,
+    "att_matching_95ci": [
+      -0.7,
+      1.8
+    ],
+    "att_regression_pts": 0.9,
+    "att_regression_95ci": [
+      -0.2,
+      1.9
+    ],
+    "max_abs_smd_before": 0.366,
+    "max_abs_smd_after": 0.039
+  },
+  "Condition_MH_SA": {
+    "treatment": "Condition_MH_SA",
+    "assigned": 17008,
+    "not_assigned": 8827,
+    "rearrest_rate_assigned": 32.5,
+    "rearrest_rate_not_assigned": 24.9,
+    "raw_difference_pts": 7.6,
+    "matched_pairs": 16980,
+    "assigned_dropped_by_caliper": 28,
+    "matched_rate_assigned": 32.5,
+    "matched_rate_comparison": 28.1,
+    "att_matching_pts": 4.3,
+    "att_matching_95ci": [
+      3.3,
+      5.4
+    ],
+    "att_regression_pts": 4.5,
+    "att_regression_95ci": [
+      3.1,
+      5.8
+    ],
+    "max_abs_smd_before": 0.505,
+    "max_abs_smd_after": 0.059
+  }
+}

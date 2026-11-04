@@ -1,0 +1,4 @@
+# Show this repo as a Python project: count generated reports and data as non-source
+*.html linguist-generated
+reports/** linguist-generated
+data/** linguist-vendored

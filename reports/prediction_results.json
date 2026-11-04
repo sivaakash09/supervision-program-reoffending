@@ -1,0 +1,28 @@
+{
+  "State risk score only": {
+    "auc": 0.585,
+    "auc_95ci": [
+      0.572,
+      0.599
+    ]
+  },
+  "Logistic regression": {
+    "auc": 0.699,
+    "auc_95ci": [
+      0.686,
+      0.71
+    ],
+    "brier": 0.1887
+  },
+  "XGBoost": {
+    "auc": 0.706,
+    "auc_95ci": [
+      0.693,
+      0.718
+    ],
+    "brier": 0.1869
+  },
+  "base_rate_test": 0.3006,
+  "brier_if_everyone_gets_base_rate": 0.2103,
+  "flag_threshold": 0.37
+}
